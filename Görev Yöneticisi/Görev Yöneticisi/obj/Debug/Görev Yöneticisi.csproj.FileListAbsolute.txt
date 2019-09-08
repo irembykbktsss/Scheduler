@@ -1,0 +1,12 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Görev Yöneticisi.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev_Yöneticisi.Form1.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev_Yöneticisi.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev Yöneticisi.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev Yöneticisi.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev Yöneticisi.pdb
+C:\Users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Quartz.dll
+C:\Users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Quartz.pdb
+C:\Users\toshiba\documents\visual studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\bin\Debug\Quartz.xml
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Görev Yöneticisi\Görev Yöneticisi\obj\Debug\Görev Yöneticisi.csprojResolveAssemblyReference.cache
